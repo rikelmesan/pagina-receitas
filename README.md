@@ -1,2 +1,2 @@
 # pagina-receitas
-Pagina de receitas com HTML5 e CSS3
+Pagina de receitas usando HTML5 e CSS3
