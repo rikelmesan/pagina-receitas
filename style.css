@@ -1,16 +1,15 @@
 body {
-    background: #eee;
+    background: rgb(43, 45, 61);
     font-family: Verdana;
     max-width: 900px;
     margin: auto;
     margin-left: 15px;
-
 }
 
 .photo {
     height: 150px;
     width: 150px;
-    border: 2px solid #505050;
+    border: 2px solid #ec6dc2;
     border-radius: 0%;
     margin-top: 15px;
 }
@@ -21,11 +20,11 @@ body {
 }
 
 .bio_content {
-    background: #fff;
     font-style: italic;
-    border: 3px solid #505050;
+    border: 3px solid #ec6dc2;
     border-radius: 5px 10px;
     padding: 3px;
+    color: rgb(79, 216, 250);
 }
 
 a {
@@ -35,8 +34,8 @@ a {
 
 #title,
 .subtitle,
-.post_title {
-    color: #505050;
+.post_title, h3 {
+    color: #1ce075;
 }
 
 .post_title {
@@ -47,9 +46,8 @@ a {
 }
 
 .post {
-    background: #fff;
     padding: 15px;
-    border: 3px solid #505050;
+    border: 3px solid #ec6dc2;
     margin-bottom: 15px;
     border-radius: 5px 10px;
 }
@@ -65,13 +63,17 @@ a {
     width: 100%;
 }
 
-.contacts_list {
-    list-style-type: none;
-    padding-left: 15px;
+.contacts_list_yellow li, a {
+    color: rgb(226, 226, 120);
+    text-decoration: none;
+    margin-bottom: 15px; 
 }
 
-.contacts_list li a {
-    text-decoration: none;
-    color: dodgerblue;
+.ingredientes {
+    color: rgb(79, 216, 250);
 }
+
+
+
+
   
