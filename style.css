@@ -3,6 +3,7 @@ body {
     font-family: Verdana;
     max-width: 900px;
     margin: auto;
+    margin-left: 15px;
 
 }
 
@@ -11,6 +12,7 @@ body {
     width: 150px;
     border: 2px solid #505050;
     border-radius: 0%;
+    margin-top: 15px;
 }
 
 .title {
@@ -72,3 +74,4 @@ a {
     text-decoration: none;
     color: dodgerblue;
 }
+  
